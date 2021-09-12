@@ -1,0 +1,16 @@
+.paragraph{
+    text-align: center;
+    
+}
+
+#p2{
+    color: teal;
+    font-size: xx-large;
+}
+
+.image_edit{
+    width: 500px;
+    height: 300px;
+    border-radius: 40px;
+    margin-left: 500px;
+}
